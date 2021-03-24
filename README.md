@@ -1,7 +1,8 @@
 # todolist-vue
+运行截图
 ![图片](https://raw.githubusercontent.com/lijinzhao1998/VUE--todolist/a/todo.png)
-
-
+![图片](https://raw.githubusercontent.com/lijinzhao1998/VUE--todolist/a/todolist.png)
+![图片](https://raw.githubusercontent.com/lijinzhao1998/VUE--todolist/a/userinfo.png)
 ## Project setup
 ```
 npm install
