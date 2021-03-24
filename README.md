@@ -1,4 +1,5 @@
 # todolist-vue
+https://raw.githubusercontent.com/lijinzhao1998/VUE--todolist/a/todolist.png
 
 ## Project setup
 ```
