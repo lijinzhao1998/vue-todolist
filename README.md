@@ -1,5 +1,5 @@
 # todolist-vue
-
+注意完整代码在a分支或者master2分支，当前分支只是前期的一个架子用来快速开发其他vue程序使用
 ## Project setup
 ```
 npm install
